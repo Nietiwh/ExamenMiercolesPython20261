@@ -4,7 +4,7 @@ import random
 # Acceso al Sistema
 
 def registrar_credenciales():
-    usuarios_sistema = []
+    usuarios_sistema = [] 
     print("--- REGISTRO DE SEGURIDAD ---")
     # Registramos 2 usuarios para la prueba
     for i in range(1):
